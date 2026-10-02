@@ -10,3 +10,5 @@ public class MultiplicationTable {
         }
     }
 }
+
+we are learning branches concept
